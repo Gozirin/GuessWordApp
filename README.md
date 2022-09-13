@@ -7,7 +7,7 @@ If you get the word right, press **Got It**. If you're stuck, press **Skip**. Th
 
 
 TECHNOLOGIES
-Navigation_Components
-View_Model
-Live_Data
-Data_Binding
+Navigation_Components,
+View_Model,
+Live_Data,
+Data_Binding,
